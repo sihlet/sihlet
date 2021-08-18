@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sihlet
+- 👀 I’m interested in anything data analytics and IoT
+- 🌱 I’m currently learning dotnet core and postgresql
